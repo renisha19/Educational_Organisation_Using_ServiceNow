@@ -9,12 +9,19 @@ This project aims to streamline academic and administrative operations in educat
 👥 Team Information
 
 Role           Details
+
 Team ID        NM2025TMID02860
+
 Team Size      4 Members
+
 Team Leader    Jesika G
+
 Team Member 1  Renisha R
+
 Team Member 2  Akshaya S
+
 Team Member 3  Ajini W
+
 🔗 ServiceNow Instance
 
 https://dev293866.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D18c0c01bc3343210e2b9921ed4013160
